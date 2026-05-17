@@ -9,7 +9,6 @@ Nedanstående övningar förutsätter att ni skapat ett konto på MongoDB, alt. 
 
 ```
 {
-  "_id":{"$oid":"682736d3c46cb203949447bb"},
   "title" : "The spy who came in from the cold",
   "author" : "John le Carré"
 }
