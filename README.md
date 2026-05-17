@@ -40,7 +40,6 @@ Nedanstående övningar förutsätter att ni skapat ett konto på MongoDB, alt. 
 
 ```
 {
-  "_id": {"$oid": "68273baaa32353a34549161c"},
   "title" : "Ulysseus",
   "author" : "James Joyce"
 }
