@@ -77,7 +77,7 @@ database.once('connected', () => {
 ## Övning 6: Koda mot din databas
 1. Börja med att skapa ett schema och en modell som du döper till **Book**.
 ```
-const mongoose = require('mongoose');
+import mongoose from 'mongoose;
 
 const bookSchema = new mongoose.Schema({
     title: String,
